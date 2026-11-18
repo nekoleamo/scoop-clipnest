@@ -1,16 +1,16 @@
 {
-  "version": "1.3.0",
+  "version": "1.3.1",
   "description": "剪贴板历史管理器，自带 NAS 同步",
   "homepage": "https://github.com/nekoleamo/clipnest",
   "license": "MIT",
-  "url": "https://github.com/nekoleamo/clipnest/releases/download/v1.3.0/clipnest-1.3.0-windows-x86_64.zip",
-  "hash": "245ff74a4e2fc29a1c0e776fbcf263943ad40114c431fc4d0bf410014822fc51",
+  "url": "https://github.com/nekoleamo/clipnest/releases/download/v1.3.1/clipnest-1.3.1-windows-x86_64.zip",
+  "hash": "53339f81c738117b89d21526d7c1c22c3de06562181c35db3bdd37dd1c5fcf4d",
   "shortcuts": [
     ["clipnest.exe", "clipnest"]
   ],
   "notes": [
     "数据在 %APPDATA% 下的 clipnest 目录；卸载不会删除，要清干净请手动删掉",
-    "首次启动托盘出现 ❐ 图标，Ctrl+Shift+V 唤出面板"
+    "首次启动托盘出现剪贴板图标，Ctrl+Shift+V 唤出面板"
   ],
   "checkver": {
     "github": "https://github.com/nekoleamo/clipnest"
