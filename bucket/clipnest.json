@@ -1,10 +1,10 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "剪贴板历史管理器，自带 NAS 同步",
   "homepage": "https://github.com/nekoleamo/clipnest",
   "license": "MIT",
-  "url": "https://github.com/nekoleamo/clipnest/releases/download/v1.1.0/clipnest-1.1.0-windows-x86_64.zip",
-  "hash": "9459e9853b035dbd69f6b67464f96f178000069053565c205e1659092d911e1f",
+  "url": "https://github.com/nekoleamo/clipnest/releases/download/v1.2.0/clipnest-1.2.0-windows-x86_64.zip",
+  "hash": "434e1c72012584532dc25f48be7491dfc0568ef52bd65ee3a2a3b8071c9d655d",
   "shortcuts": [
     ["clipnest.exe", "clipnest"]
   ],
